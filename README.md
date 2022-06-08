@@ -1,4 +1,4 @@
-# Python-assignments
+# Solving porblems with python (Jupyter Notebook)
 You can find these kinds of python assignments and their solutions in different places. 
 I have tried to solve some of them and collected in the same file. 
 
